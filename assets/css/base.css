@@ -602,13 +602,13 @@ article {
 .contacts li a.mail:hover {
   color: dimgrey;
 }
-.contacts li a.skype:hover {
+.contacts li a.twitter:hover {
   color: #00aff0;
 }
 .contacts li a.linkedin:hover {
   color: #0077b5;
 }
-.contacts li a.telegram:hover {
+.contacts li a.instagram:hover {
   color: #0088cc;
 }
 .contacts li a.phone:hover {
